@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Raj Kinkhabwala | Computer Engineer</title>
+    <link>http://rajkinkhabwala.me/blog/</link>
+    <description>Recent content in Blog on Raj Kinkhabwala | Computer Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2020 14:12:03 +0530</lastBuildDate>
+    
+	<atom:link href="http://rajkinkhabwala.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a new Website</title>
+      <link>http://rajkinkhabwala.me/blog/first-post/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://rajkinkhabwala.me/blog/first-post/</guid>
+      <description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+  </channel>
+</rss>
