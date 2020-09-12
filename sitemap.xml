@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rajkinkhabwala.me/about/</loc>
+    <lastmod>2020-09-12T14:13:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rajkinkhabwala.me/</loc>
+    <lastmod>2020-09-12T14:13:30+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rajkinkhabwala.me/posts/my-first-post/</loc>
     <lastmod>2020-09-12T13:12:50+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://rajkinkhabwala.me/posts/</loc>
-    <lastmod>2020-09-12T13:12:50+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rajkinkhabwala.me/</loc>
     <lastmod>2020-09-12T13:12:50+05:30</lastmod>
   </url>
   
